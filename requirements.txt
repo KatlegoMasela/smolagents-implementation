@@ -1,0 +1,7 @@
+smolagents[toolkit,gradio,litellm]>=1.26.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+requests>=2.31.0
+pytz>=2024.1
+gradio>=4.0.0
+litellm>=1.40.0
